@@ -1,0 +1,11 @@
+{
+  "name": "node-token-jwt",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "morgan": "latest",
+    "mongoose": "latest",
+    "jsonwebtoken": "latest"
+  }
+}
